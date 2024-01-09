@@ -1,10 +1,11 @@
 {
-    "repos": [
-        "gabe-changer",
-        "connect-four",
-        "time-clock",
-        "tour-of-players",
-        "personal-project",
-        "personal-site"
-    ]
+  "repos": [
+    "gabe-changer",
+    "store",
+    "connect-four",
+    "time-clock",
+    "tour-of-players",
+    "personal-project",
+    "personal-site"
+  ]
 }
